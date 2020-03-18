@@ -1,7 +1,7 @@
 site:
   title: Apache Camel
   url: https://camel.apache.org
-  start_page: manual::index.adoc
+  start_page: latest@manual::index.adoc
 
 content:
   sources:
